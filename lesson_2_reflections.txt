@@ -10,3 +10,12 @@ A: The staging area only shows the files that you select to be committed,
 	whereas the working directory shows all files. The value offered is that
 	you have complete control over what gets updated, when it gets updated,
 	how it's updated, and why.
+	
+Q: How can you use the staging area to make sure you have one commit per 
+	logical change?
+A: You are able to compare the working directory to the staging area, as well
+	as the staging area to the most recent commit, so it is very easy to 
+	ensure there is only one logical change to the file.
+	
+Q: 
+A:
