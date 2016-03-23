@@ -1,0 +1,48 @@
+Lesson 1 Reflections:
+
+Q: How did viewing a diff between two versions of a file help you see the 
+	bug that was introduced?
+A: Having the ability to view the differences between each file was helpful
+	because I was only shown the differences, as opposed to the entire 
+	file. Having a smaller window to view errors assisted me with quickly
+	identifying the error that was introduced.
+	
+Q: How could having easy access to the entire history of a file make you a 
+	more efficient programmer in the long term?
+A: Having access to the history of a file would enable you to see firsthand
+	the types of changes and differences that are introduced with each
+	iteration. This would allow you to obtain a better idea of what to look
+	for when checking your own code for errors, and gives you the knowledge
+	to reduce those errors from	occuring in the first place.
+	
+Q: What do you think are the pros and cons of manually choosing when to create
+	a commit, like you do in Git, vs having versions automatically saved, like
+	Google Docs does?
+A: Pros: Commits would make more sense, instead of randomly saving in odd
+	places. Ideally, there would also not be an overflow of commits that 
+	aren't meaningful. 
+	Cons: Possible loss of data from forgetting to commit. 
+	
+Q: Why do you think some version control systems, like Git, allow saving
+	multiple files in one commit, while others, like Google Docs, treat each
+	file separately?
+A: Application structure, file management differences
+
+Q: How can you use the commands git log and git diff to view the history of files?
+A: Using git log will allow you to view the entire history of a project by listing
+	all of the saved commits. Git diff will let you view what changed between two
+	different versions of a file from different points in time.
+	
+Q: How might using version control make you more confident to make changes that 
+	could break something?
+A: You always have a fail-safe in case something goes very wrong, which allows for
+	a more relaxed and confident approach to doing something that could cause a bug
+	or some other sort of issue within the project.
+	
+Q: Now that you have your workspace set up, what do you want to try using Git for?
+A:I would like to design a text based game, and allow some collaboration with some
+	friends/coworkers using Git.
+
+
+Q:
+A:
