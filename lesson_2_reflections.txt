@@ -1,0 +1,12 @@
+Lesson 2
+
+Q: What happens when you initialize a repository? Why do you need to do it?
+A: Initializes all of the files that are needed to manage your repository.
+	This allows you to create, maintain, modify, and share your repository.
+	
+Q: How is the staging area different from the working directory and the
+	repository? What value do you think it offers?
+A: The staging area only shows the files that you select to be committed,
+	whereas the working directory shows all files. The value offered is that
+	you have complete control over what gets updated, when it gets updated,
+	how it's updated, and why.
