@@ -17,5 +17,27 @@ A: You are able to compare the working directory to the staging area, as well
 	as the staging area to the most recent commit, so it is very easy to 
 	ensure there is only one logical change to the file.
 	
-Q: 
-A:
+Q: What are some situations when branches would be helpful in keeping
+	your history organized? How would branches help?
+A: If you were attempting to add an experimental feature, have separate
+	versions of the same program with modifications, or significant change
+	to the structure of the program. Having branches would make tracking which
+	version was which a lot easier to manage, as well as provide an extra 
+	layer of backups if needed.
+
+Q: How do the diagrams help you visualize the branch structure?
+A: Diagrams let you see the physical path between each commit and it's parent.
+	This allows you to easily trace a path back through your commits.
+	
+Q: What is the result of merging two branches together? Why do we represent
+	it in the diagram the way we do?
+A: Merging 2 branches together makes a new master file with the combined
+	changes from both branches. It is represented the way it is shown because
+	this shows a visual representation of what is happening to each branch.
+	
+Q: What are the pros and cons of Git’s automatic merging vs. always doing
+	merges manually?
+A: Automatically merging for a simple project is unlikely to have any major
+	issues as far as conflicts, but on a project with multiple people working
+	with multiple versions of the same file, conflicts are easy to introduce
+	unless each person is collaborating effectively.
