@@ -29,5 +29,9 @@ A: Email, thumb drives, and Google drive are all options to collaborate. Email a
 	maintain each iteration of a project. Google Drive would be similar to GitHub, although the setup
 	may be a little easier to manage.
 
-Q: 
-A: 
+Q: When would you want to make changes in a separate branch rather than directly in master? What 
+	benefits does each approach have?
+A: You would make changes in a separate branch when you were testing/adding a new feature and wanted
+	to preserve the original, while also leaving potentially buggy code separate from working code. The
+	advantage of using one branch is that repository management is easier to deal with, although having
+	a separate branch will allow you more freedom to tinker with potential additions to the project.
