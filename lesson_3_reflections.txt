@@ -1,5 +1,9 @@
+Lesson 3
+
 Q: When would you want to use a remote repository rather than keeping all your work local?
 A: Mobility purposes, and data protection in the event of a system failure/other disaster.
 
-Q:
-A:
+Q: Why might you want to always pull changes manually rather than having Git automatically
+	stay up-to-date with your remote repository?
+A: Manually pulling changes will reduce pull requests, and reduce the chance of pulling in
+	a non-working or experimental version of your repository.
