@@ -17,3 +17,7 @@ A: Forks are clones of a repository that aren't directly associated with the ori
 	you want to use a repository but don't have the permission to modify the original. You would clone
 	a repository so that you could modify it and update it at a different time. Branches would be
 	useful to test new features or fix bugs.
+	
+Q: What is the benefit of having a copy of the last known state of the remote stored locally?
+A: Maintain integrity if you have multiple collaborators, and you will have the ability to review
+	the code in case a change creates a bug or some other issue.
