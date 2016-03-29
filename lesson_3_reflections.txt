@@ -1,0 +1,5 @@
+Q: When would you want to use a remote repository rather than keeping all your work local?
+A: Mobility purposes, and data protection in the event of a system failure/other disaster.
+
+Q:
+A:
