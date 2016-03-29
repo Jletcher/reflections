@@ -7,3 +7,13 @@ Q: Why might you want to always pull changes manually rather than having Git aut
 	stay up-to-date with your remote repository?
 A: Manually pulling changes will reduce pull requests, and reduce the chance of pulling in
 	a non-working or experimental version of your repository.
+
+Q: Describe the differences between forks, clones, and branches. When would you use one 
+	instead of another?
+A: Forks are clones of a repository that aren't directly associated with the original, meaning
+	that changes to the fork will not update the original. Clones are direct copies of a 
+	repository that get updated when there is a push. Branches are part of one repository that
+	link back to the original, preserving the history of that repository. You would use forks when
+	you want to use a repository but don't have the permission to modify the original. You would clone
+	a repository so that you could modify it and update it at a different time. Branches would be
+	useful to test new features or fix bugs.
