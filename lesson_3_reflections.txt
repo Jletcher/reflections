@@ -21,3 +21,13 @@ A: Forks are clones of a repository that aren't directly associated with the ori
 Q: What is the benefit of having a copy of the last known state of the remote stored locally?
 A: Maintain integrity if you have multiple collaborators, and you will have the ability to review
 	the code in case a change creates a bug or some other issue.
+	
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be
+	harder?
+A: Email, thumb drives, and Google drive are all options to collaborate. Email and thumb drives would
+	would be much harder, since the files won't be synchronized and it's a lot of legwork to get and
+	maintain each iteration of a project. Google Drive would be similar to GitHub, although the setup
+	may be a little easier to manage.
+
+Q: 
+A: 
